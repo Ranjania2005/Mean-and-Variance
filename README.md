@@ -1,4 +1,6 @@
-#  Mean and variance of a discrete  distribution                                               ### DATE:
+# DATE:
+
+#  Mean and variance of a discrete  distribution                                               
 
 # Aim : 
 
